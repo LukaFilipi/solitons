@@ -15,4 +15,4 @@ A range of different initial solutions were propagated through the KdeV equation
 
 The effects of changing some of the equation parameters on the stability of the numerical solution are also examined.
 
-The directories inside the "Results" directory contain the raw, tab-delimited numerical results of the simulation, as well as images of the plotted graphs for each of these scenarios, with different parameters. The different parameters used for each of the plots are indicated in the filenames.
+The directories inside the "Results" directory contain the plotted graphs for each of these scenarios with different parameters. The different parameters used for each of the plots are indicated in the filenames.
