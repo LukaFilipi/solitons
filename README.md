@@ -13,4 +13,4 @@ A range of different initial solutions were propagated through the KdeV equation
 3. Wave breaking - a solution that is not a normal mode
 4. Shock waves - the dispersion term is removed from the KdeV equation
 
-The directories inside the "Results" directory contain the raw, tab-delimited numerical results of the simulation, as well as images of the plotted graphs for each of these scenarios, with different parameters.
+The directories inside the "Results" directory contain the raw, tab-delimited numerical results of the simulation, as well as images of the plotted graphs for each of these scenarios, with different parameters. The different parameters used for each of the plots are indicated in the filenames.
